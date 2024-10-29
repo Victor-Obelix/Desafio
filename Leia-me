@@ -1,5 +1,5 @@
 Este projeto foi criado usando o Delphi7 no Lazaros. Escolhi essa distribuição Pascal Open Source, pois estou usando Linux em minhas maquinas.
 
-A estrutura do projeto é simples, cada arquivo UNIT(num)_Delphi.pas e um desafio, pode ser aberto em txt para verificação dos textos caso o lazaros não esteja em sua maquina... a estrutura é identica ao Delphi, unica diferença é o nome das dependencias que passam a ser OpenSource.
+A estrutura do projeto é simples, cada arquivo UNIT(num)_Delphi.pas e um desafio, pode ser aberto em txt para verificação dos textos caso o Lazaros não esteja em sua maquina... a estrutura é identica ao Delphi, unica diferença é o nome das dependencias que passam a ser OpenSource.
 
 A parte relacionada a banco de dados foi desenvolvida usando SQLite, mas devido a limitação de criaçaõ de proc e functions da ferramenta, usei meus conhecimentos para criar os scripts em PLSQL e TSQL, testando em compiladores online e simuladores.
